@@ -25,3 +25,6 @@ python main.py --topic "Benefits of crew-based AI orchestration"
 ### Notes
 - Model can be changed via `LLM_MODEL` in `.env` (default: `gemini-1.5-flash`).
 
+### References
+- Built following CrewAI's core concepts of Crews, Agents, Tasks, and Processes (sequential) as described in the Introduction: [CrewAI Introduction](https://docs.crewai.com/en/introduction).
+
