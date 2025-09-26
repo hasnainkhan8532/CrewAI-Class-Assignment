@@ -2,6 +2,9 @@
 
 Run a simple two-agent crew (Researcher ➜ Writer) using Google Gemini via LangChain.
 
+### Requirements
+- Python 3.10+ (CrewAI 0.5.0 uses modern typing unions not supported on 3.9)
+
 ### Setup
 1. Create a virtual environment and install deps:
 ```bash
